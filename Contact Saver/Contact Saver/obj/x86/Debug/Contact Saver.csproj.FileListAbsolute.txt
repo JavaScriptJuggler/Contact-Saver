@@ -1,0 +1,25 @@
+C:\Users\Soumya\AppData\Local\Temporary Projects\Contact Saver\bin\Debug\Contact Saver.exe
+C:\Users\Soumya\AppData\Local\Temporary Projects\Contact Saver\bin\Debug\Contact Saver.pdb
+C:\Users\Soumya\AppData\Local\Temporary Projects\Contact Saver\obj\x86\Debug\Contact_Saver.Form1.resources
+C:\Users\Soumya\AppData\Local\Temporary Projects\Contact Saver\obj\x86\Debug\Contact_Saver.Properties.Resources.resources
+C:\Users\Soumya\AppData\Local\Temporary Projects\Contact Saver\obj\x86\Debug\Contact Saver.csproj.GenerateResource.Cache
+C:\Users\Soumya\AppData\Local\Temporary Projects\Contact Saver\obj\x86\Debug\Contact Saver.exe
+C:\Users\Soumya\AppData\Local\Temporary Projects\Contact Saver\obj\x86\Debug\Contact Saver.pdb
+C:\Users\Soumya\AppData\Local\Temporary Projects\Contact Saver\bin\Debug\Gradient Panel.dll
+D:\Important\CCPA\C#\Contact Saver\Contact Saver\obj\x86\Debug\Contact Saver.exe
+D:\Important\CCPA\C#\Contact Saver\Contact Saver\obj\x86\Debug\Contact Saver.pdb
+D:\Important\CCPA\C#\Contact Saver\Contact Saver\bin\Debug\Contact Saver.exe
+D:\Important\CCPA\C#\Contact Saver\Contact Saver\bin\Debug\Contact Saver.pdb
+D:\Important\CCPA\C#\Contact Saver\Contact Saver\bin\Debug\Gradient Panel.dll
+D:\Important\CCPA\C#\Contact Saver\Contact Saver\obj\x86\Debug\Contact Saver.csprojResolveAssemblyReference.cache
+D:\Important\CCPA\C#\Contact Saver\Contact Saver\obj\x86\Debug\Contact_Saver.Form1.resources
+D:\Important\CCPA\C#\Contact Saver\Contact Saver\obj\x86\Debug\Contact_Saver.Properties.Resources.resources
+D:\Important\CCPA\C#\Contact Saver\Contact Saver\obj\x86\Debug\Contact Saver.csproj.GenerateResource.Cache
+D:\CCPA\C#\Contact Saver\Contact Saver\Contact Saver\obj\x86\Debug\Contact Saver.exe
+D:\CCPA\C#\Contact Saver\Contact Saver\Contact Saver\obj\x86\Debug\Contact Saver.pdb
+D:\CCPA\C#\Contact Saver\Contact Saver\Contact Saver\bin\Debug\Contact Saver.exe
+D:\CCPA\C#\Contact Saver\Contact Saver\Contact Saver\bin\Debug\Contact Saver.pdb
+D:\CCPA\C#\Contact Saver\Contact Saver\Contact Saver\obj\x86\Debug\Contact Saver.csprojResolveAssemblyReference.cache
+D:\CCPA\C#\Contact Saver\Contact Saver\Contact Saver\obj\x86\Debug\Contact_Saver.Form1.resources
+D:\CCPA\C#\Contact Saver\Contact Saver\Contact Saver\obj\x86\Debug\Contact_Saver.Properties.Resources.resources
+D:\CCPA\C#\Contact Saver\Contact Saver\Contact Saver\obj\x86\Debug\Contact Saver.csproj.GenerateResource.Cache
